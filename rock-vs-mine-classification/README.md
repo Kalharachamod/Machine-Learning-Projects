@@ -26,5 +26,14 @@ Built using Python and **Logistic Regression**, this project helped me strengthe
 
 ---
 
+### 📷 Model Accuracy
+
+![Model Accuracy](accuracy.png)
+
+### 🔍 Prediction Output
+
+![Prediction Output](prediction.png)
+
+
 
 
